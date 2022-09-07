@@ -1,0 +1,26 @@
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.AssemblyReference.cache
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli_Html_Mail_Gonderme.Form1.resources
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli_Html_Mail_Gonderme.Resources.resources
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.exe.config
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.exe
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.pdb
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.xml
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.exe
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.xml
+C:\Users\Hasan\source\repos\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.pdb
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.exe.config
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.exe
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.pdb
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\bin\Debug\Resimli Html Mail Gonderme.xml
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.AssemblyReference.cache
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.SuggestedBindingRedirects.cache
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli_Html_Mail_Gonderme.Anasayfa.resources
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli_Html_Mail_Gonderme.Resources.resources
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.GenerateResource.cache
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.vbproj.CoreCompileInputs.cache
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.exe
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.xml
+E:\Resimli Html Mail Gonderme\Resimli Html Mail Gonderme\obj\Debug\Resimli Html Mail Gonderme.pdb

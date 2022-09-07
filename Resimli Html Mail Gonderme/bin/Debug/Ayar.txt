@@ -1,0 +1,8 @@
+Gonderici@hotmail.com
+Sifre
+smtp-mail.outlook.com
+587
+True
+Alici@hotmail.com
+TestFoto.jpg
+True
